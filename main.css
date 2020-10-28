@@ -322,11 +322,11 @@ header.fixed #logo {
     max-width: 200px;
 }
 .scale {
-    transition: 2s; /* Время эффекта */
+    transition: 1s; /* Время эффекта */
 }
 
     .scale:hover {
-        transform: scale(1.1); /* Увеличиваем масштаб */
+        transform: scale(1.2); /* Увеличиваем масштаб */
     }
 
 #solarsystem h2 {font-size: 3em}
